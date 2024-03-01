@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">this is the place</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="rafi1">this is the place </string>
+    <string name="rafi2">this is 2nd</string>
+    <string name="rafi3">this is 3nd</string>
+    <string name="rafi4">this is 4nd</string>
+    <string name="rafi5">this is 5nd</string>
+    <string name="rafi6">this is 6nd</string>
+    <string name="rafi7">this is 7nd</string>
+    <string name="rafi8">this is 8nd</string>
+    <string name="rafi9">this is 9nd</string>
+    <string name="rafi10">this is 10nd</string>
+    <string name="rafi11">this is 11nd</string>
+    <string name="this_is_rafi">this is rafi</string>
+</resources>
