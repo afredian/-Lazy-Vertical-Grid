@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    DataList(dataClass = DataStore().DataAllHere())
+                    //DataList(dataClass = DataStore().DataAllHere())
+
                 }
             }
         }
